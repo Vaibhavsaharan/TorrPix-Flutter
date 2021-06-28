@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:torrpix/pages/DetailsPage/components/movieDetails.dart';
-import 'package:torrpix/pages/DetailsPage/components/webTor.dart';
+import 'package:torrpix/ui/DetailsPage/components/movieDetails.dart';
+import 'package:torrpix/ui/DetailsPage/components/webTor.dart';
 import 'package:flutter/services.dart';
 
 class TorrentList extends StatelessWidget {

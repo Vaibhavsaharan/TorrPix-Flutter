@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:torrpix/pages/DetailsPage/components/body.dart';
+import 'package:torrpix/ui/DetailsPage/components/body.dart';
 
 import '../../constants.dart';
 

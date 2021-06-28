@@ -39,10 +39,19 @@ dependencies:
   webview_flutter: ^2.0.7
   flutter_launcher_icons: ^0.9.0
   provider: ^5.0.0
+  stacked: ^2.1.9
+  video_player: ^2.1.6
+  stacked_services:
+  get_it:
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+  build_runner:
+  stacked_generator:
+
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
