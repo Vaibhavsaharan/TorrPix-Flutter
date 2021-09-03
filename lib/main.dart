@@ -5,7 +5,6 @@ import 'package:stacked/stacked_annotations.dart';
 import 'package:stacked_services/stacked_services.dart';
 import 'package:torrpix/constants.dart';
 import 'package:torrpix/ui/HomePage/HomePage.dart';
-import 'package:torrpix/providers/homePageProvider.dart';
 import 'package:torrpix/ui/views/home/home_view.dart';
 import 'app/app.locator.dart';
 import 'app/app.router.dart';
